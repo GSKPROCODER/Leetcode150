@@ -39,7 +39,7 @@ Push your limits and solve hard problems that require advanced techniques!
 
 ---
 
-## Footer
+## _______________
 
 Happy Coding! 🧑‍💻
 
