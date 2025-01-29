@@ -1,0 +1,12 @@
+from typing import List
+
+nums = [2, 2, 1]
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
+        a = 0
+        for x in nums:
+            a ^= x
+        return a
+
+solution = Solution()
+print(solution.singleNumber(nums))
