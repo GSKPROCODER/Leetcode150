@@ -37,7 +37,6 @@ class LinkedList:
             current = current.next
         print("None")
 
-# Example usage:
 ll = LinkedList()
 ll.insert_at_beginning(1)
 ll.insert_at_end(2)
